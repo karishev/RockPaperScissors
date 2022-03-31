@@ -2,6 +2,10 @@ SULIFA - Rock Paper Scissors for 2
 ----------------------
 
 ### Description
+
+https://toothsome-truth-watercress.glitch.me/
+
+
 This project allows only for two people to play the game of rock paper scissors. The game doesn't show the choice the other player made until both made a choice. The game for now doesn't allow any further changes to make if a choice was made. After both players make a choice, teh game shows the winner and both choices and after 3 seconds empties everything and players can start again.
 
 ### Implementation
